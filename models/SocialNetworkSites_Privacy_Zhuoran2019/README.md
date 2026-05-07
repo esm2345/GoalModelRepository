@@ -1,5 +1,4 @@
-# [Scenario name]
-[One-sentence description of what this model represents]
+# [Scenario name TEMPLATE DOC] 
 
 ## Metadata
 | Field | Value |
@@ -12,21 +11,21 @@
 | Original notation | [e.g. iStar 2.0, KAOS, Tropos, GRL] |
 
 ## Scenario description
-[Describe what the model is about — the context, actors, and main goals. 2–4 sentences.]
+[Short description of model (actors, main goal, context)]
 
 ## Reconstruction notes
-- [Any modelling decision that deviated from the original]
-- [Ambiguities in the source and how you resolved them]
-- [Notation elements with no direct equivalent and how you handled them]
+- [modelling decision that deviated from the original]
+- [Ambiguities in the source and how resolved them or interpreted]
+- [Notation elements with no direct equivalent and how handled it]
 
 ## Interpretation guidance
-[Links to notation guides, translation rules, or papers used — e.g. iStar 2.0 spec, KAOS handbook]
+[Links to notation guides, translation rules, or papers used (mapping papers, ...) ]
 
 ## Supplementary material
-[Any additional context or external resources needed to understand or reuse this model]
+[other additional context or external resources to help understand or reuse model]
 
 ## Files in this folder
-- `[foldername].pstar` — editable PiStar file
-- `[foldername].png` — image exported from PiStar
-- `original-paper-image.png` — original figure from source paper
-- `README.md` — this file
+- `/reconstructed_diagrams/reconstructedImage_SNSPrivacy_Zhuoran2019.png` -> image exported from Pistar
+- `/original_diagrams/.[Filename].png` —> image exported from PiStar
+- `original-paper-image.png` —> original figure from source paper
+- `README.md` —> this file
