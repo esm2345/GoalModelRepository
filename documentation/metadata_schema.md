@@ -1,4 +1,4 @@
-# Model Metadata: [Insert Model ID / Title Here]
+# Model Metadata: [Model Title Here]
 
 | Label | Description |
 | :--- | :--- |
