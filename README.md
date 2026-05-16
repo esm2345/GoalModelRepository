@@ -48,11 +48,12 @@ Goal-Oriented Requirements Engineering (GORE) and were found using specified sea
 ## How to Cite
 
 > E. Soulas Moreno. *Building an Open Dataset of GoalOriented
-Requirements Engineering Models*. DTU, 2026. Available at: [GitHub URL]
+Requirements Engineering Models*. DTU, 2026. Available at: https://github.com/esm2345/GoalModelRepository/blob/main/README.md
+
 
 ## References
 [1] F. Dalpiaz, X. Franch, and J. Horkoff, “Istar 2.0 language guide,” arXiv preprint
 arXiv:1605.07767, 2016. DOI: 10.48550/arXiv.1605.07767. [Online]. Available: https:
 //arxiv.org/abs/1605.07767.
 
-[2] Pimentel, João and Castro, Jaelson. piStar Tool – A Pluggable Online Tool for Goal Modeling. 2018 IEEE 26th International Requirements Engineering Conference, pp. 498-499.
+[2] Pimentel, João and Castro, Jaelson. piStar Tool – A Pluggable Online Tool for Goal Modeling. 2018 IEEE 26th International Requirements Engineering Conference, pp. 498-499. Available at: [text](https://github.com/jhcp/piStar)
