@@ -6,7 +6,7 @@ This repository aims to collect, categorize, and publicly share a curated open-s
 To support the findability, accessibility, and reproducibility of research in GORE, every artifact is accompanied by structured metadata.
 
 ## Repository Structure
-
+```text
 GoalModelRepository/
 ├── README.md                           ← repository overview and usage instructions
 ├── metadata_catalogue.xlsx             ← consolidated metadata catalogue
@@ -26,8 +26,8 @@ GoalModelRepository/
     ├── RemoteDataMirroring_Application/
     └── ...
 
+```
 
-    
 Each model folder is assigned a descriptive title summarizing the modeled scenario and contains the model's metadata, the JSON-formatted source file, an image of the model created in the PiStar tool [2], and the original model image from its source.
 
 
