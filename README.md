@@ -8,24 +8,26 @@ To support the findability, accessibility, and reproducibility of research in GO
 ## Repository Structure
 
 GoalModelRepository/
-|__ README.md                           ← this file
-|__ metadata_catalogue.xlsx             ← all model metadata in one place
-|__ metadata_catalogue.csv
-|__ docs/
-|   |__ metadata-schema.md              ← schema definition for model metadata
-|__ models/
-    |__ BusinessStrategy_Modelling/     ← model file
-    |   |__ README.md                   ← metadata schema for the specific model
-    |   |__ model.txt                   ← txt file of model in JSON format
-    |   |__ model.png                   ← image of reconstructed model
-    |   |__ original_image.png          ← image of model in source paper
-    |   |__ original_description.txt    ← (optional) original description of model in source paper
-    |__ DecisionMaking_for_SelfAdaptiveSystem/
-    |__ GreenManger_MultiAgentSmartHome/
-    |__ RemoteDataMirroring_Application/
-    |__ ...
-...
+├── README.md                           ← repository overview and usage instructions
+├── metadata_catalogue.xlsx             ← consolidated metadata catalogue
+├── metadata_catalogue.csv
+├── docs/
+│   └── metadata-schema.md              ← metadata schema definition
+└── models/
+    ├── BusinessStrategy_Modelling/
+    │   ├── README.md                   ← metadata for the specific model
+    │   ├── model.txt                   ← model stored in JSON format
+    │   ├── model.png                   ← reconstructed model in PiStar
+    │   ├── original_image.png          ← original model image from source paper
+    │   └── original_description.txt    ← optional original description
+    │
+    ├── DecisionMaking_for_SelfAdaptiveSystem/
+    ├── GreenManager_MultiAgentSmartHome/
+    ├── RemoteDataMirroring_Application/
+    └── ...
 
+
+    
 Each model folder is assigned a descriptive title summarizing the modeled scenario and contains the model's metadata, the JSON-formatted source file, an image of the model created in the PiStar tool [2], and the original model image from its source.
 
 
