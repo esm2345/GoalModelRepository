@@ -14,7 +14,7 @@ GoalModelRepository/
 ├── docs/
 │   └── metadata-schema.md              ← metadata schema definition
 └── models/
-    ├── BusinessStrategy_Modelling/
+    ├── BusinessStrategy_Modelling/     ← model file
     │   ├── README.md                   ← metadata for the specific model
     │   ├── model.txt                   ← model stored in JSON format
     │   ├── model.png                   ← reconstructed model in PiStar
