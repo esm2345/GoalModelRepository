@@ -1,6 +1,6 @@
 # GoalModelRepository
 
-## About
+
 This repository aims to collect, categorize, and publicly share a curated open-source catalogue of Goal Models for Goal-Oriented Requirements Engineering (GORE). Each model in the dataset is stored in JSON format using the iStar 2.0 notation [1] in the [PiStar tool](https://github.com/jhcp/piStar) [2], and has been either reconstructed from its original publication, provided directly by the authors, or translated from another GORE modeling notation.
 
 
