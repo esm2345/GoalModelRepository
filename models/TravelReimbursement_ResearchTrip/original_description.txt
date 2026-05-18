@@ -1,0 +1,26 @@
+In that model, the intentions
+and tasks related to booking and securing reimbursement
+for a trip by a research student are modeled. Here we consider a more elaborate case of reimbursement. Specifically,
+the researcher in question is assumed to have a last-minute
+opportunity to attend a research meeting. The researcher contemplates whether attending that meeting is worth the time
+and effort to travel there and decides that she would go only
+if she secures a reimbursement for that. However, given that
+this is last-minute, she should first book the tickets and then
+apply for the authorization needed for the reimbursement.
+Such authorization is not certain. She applies for it by filling a form and also adding a short research proposal and then
+submits it to either a committee or the head of the department,
+who operate on different budgets. Applying through the committee is, in some cases, more likely to lead to an approval but
+takes more time. Specifically, if the application is filled using
+a paper form, it is reviewed by a different, more lenient subcommittee, compared to when it is filled online. That option
+is better than letting the head of the department approve it,
+as the latter manages a smaller budget but still receives many
+requests. On the other hand, having the entire committee
+know the actor’s research endeavors may be uncomfortable
+to the researcher.
+In the model, goals (e.g., ‘Tickets Booked’), that is, states
+of affairs desired by actors (represented using circular elements, e.g., ‘Researcher’), are modeled through oval-shaped
+elements and recursively refined into subgoals and eventually tasks. The latter, depicted through hexagon-shaped
+elements represent actions that an actor wants to be executed to achieve the goals as per the refinement structure,
+such as ‘Book Refundable Tickets’ in the figure. The cloudshaped elements are qualities (also: quality goals, we use the
+two terms interchangeably), i.e., attributes for which an actor
+desires some level of achievement. 
