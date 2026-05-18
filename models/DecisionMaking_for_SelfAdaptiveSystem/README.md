@@ -3,7 +3,8 @@
 | Label | Description |
 | :--- | :--- |
 | **title** | DecisionMaking_for_SelfAdaptiveSystems |
-| **source_paper** | Supporting Decision-Making for Self-Adaptive Systems: From Goal Models to Dynamic Decision Networks, DOI: 10.1007/978-3-642-37422-7_16 |
+| **source_paper** | Supporting Decision-Making for Self-Adaptive Systems: From Goal Models to Dynamic Decision Networks |
+| **DOI** | 10.1007/978-3-642-37422-7_16 |
 | **authors** | N. Bencomo, A. Belaggoun |
 | **year** | 2013 |
 | **domain** | IT Systems |
