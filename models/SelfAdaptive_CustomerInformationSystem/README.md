@@ -2,7 +2,8 @@
 | Label | Description |
 | :--- | :--- |
 | **title** | SelfAdaptive_CustomerInformationSystem|
-| **source_paper** | A goal modeling framework for self-contextualizable software, DOI: 10.1007/978-3-642-01862-6_27 |
+| **source_paper** | A goal modeling framework for self-contextualizable software|
+| **DOI** |  10.1007/978-3-642-01862-6_27 |
 | **authors** | R. Ali, F. Dalpiaz, P. Giorgini |
 | **year** | 2009 |
 | **domain** | IT Systems |
