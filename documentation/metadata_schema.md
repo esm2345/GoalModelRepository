@@ -3,7 +3,8 @@
 | Label | Description |
 | :--- | :--- |
 | **title** | [Assigns each model a descriptive title] |
-| **source_paper** | [Title and link or DOI to the original source] |
+| **source_paper** | [Title of the original source] |
+| **DOI** | [link or DOI to the original source] |
 | **authors** | [Authors names] |
 | **year** | [Publication year of the original source] |
 | **domain** | [Application area (e.g. legal, healthcare, security)] |
