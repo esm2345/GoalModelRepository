@@ -3,7 +3,8 @@
 | Label | Description |
 | :--- | :--- |
 | **title** | CrossoverServices_Fliggy |
-| **source_paper** | Combining i* and Service Blueprint for Service design: a case study of Fliggy, DOI: 10.1109/ICCSMT58129.2022.00078 |
+| **source_paper** | Combining i* and Service Blueprint for Service design: a case study of Fliggy |
+| **DOI** |  10.1109/ICCSMT58129.2022.00078 |
 | **authors** | Z. Liu |
 | **year** | 2022|
 | **domain** | Online Travel Agency |
