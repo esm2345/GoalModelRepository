@@ -3,7 +3,8 @@
 | Label | Description |
 | :--- | :--- |
 | **title** | TeamCollaboration_MLOps |
-| **source_paper** | Using i* to Analyze Collaboration Challenges in MLOps Project Teams, [link:](https://ceur-ws.org/Vol-3231/) |
+| **source_paper** | Using i* to Analyze Collaboration Challenges in MLOps Project Teams |
+| **DOI or Link** |https://ceur-ws.org/Vol-3231/ |
 | **authors** | R. Sothilingam, V. Pant, E. Yu|
 | **year** |2022 |
 | **domain** |Machine Learning Operations (MLOps)|
