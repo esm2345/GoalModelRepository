@@ -2,7 +2,8 @@
 | Label | Description |
 | :--- | :--- |
 | **title** | RequirementsElicitationProcess |
-| **source_paper** | Using Contextual Goal Models for Constructing Situational Methods, DOI: 10.1007/978-3-030-00847-5_31 |
+| **source_paper** | Using Contextual Goal Models for Constructing Situational Methods |
+| **DOI** | 10.1007/978-3-030-00847-5_31 |
 | **authors** | J. Ralyte, X. Franch |
 | **year** | 2018 |
 | **domain** | Requirements Engineering |
