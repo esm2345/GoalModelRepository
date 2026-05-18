@@ -3,7 +3,8 @@
 | Label | Description |
 | :--- | :--- |
 | **title** | SocialNetworkSites_Privacy |
-| **source_paper** | Modeling for Social Network Privacy Design, [text](http://hdl.handle.net/1807/98111) |
+| **source_paper** | Modeling for Social Network Privacy Design |
+| **DOI or Link** | http://hdl.handle.net/1807/98111|
 | **authors** | J. Zhuoran |
 | **year** | 2019 |
 | **domain** | Social Network Sites (SNS) |
