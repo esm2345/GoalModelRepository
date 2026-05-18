@@ -3,7 +3,8 @@
 | Label | Description |
 | :--- | :--- |
 | **title** | [Assigns each model a descriptive title] |
-| **source_paper** | [Title and link or DOI to the original source] |
+| **source_paper** | [Title to the original source] |
+| **DOI** | [ DOI to the original source] |
 | **authors** | [Authors names] |
 | **year** | [Publication year of the original source] |
 | **domain** | [Application area (e.g. legal, healthcare, security)] |
@@ -18,5 +19,3 @@
 ## Folder Contents
 * **`[model-name].txt`**: The new model file, compatible with the PiStar tool
 * **`[model-name].png`**: A high-resolution export of the model for quick viewing
-* **`original_image.png`**: (Optional) Contains a screenshot or PDF of the original model from the paper 
-* **`original_description.txt`**: (Optional) Contains description of the original model from the paper 
