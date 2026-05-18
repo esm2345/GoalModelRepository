@@ -8,7 +8,7 @@
 | **year** | 2022 |
 | **domain** | Travel Reimbursement|
 | **model_origin** |  reconstructed-from-image  |
-| **original_notation_and_extension** | iStar 2.0 with custom temporal links|
+| **original_notation_and_extension** | iStar 2.0 with precedence link extension|
 | **reconstruction_notes** | the custom links labelled `pre` that denoted the precedence of some goals over others were omitted due to the PiStar syntax and instead added to the goal description (for example: `Authorization offered (after application)`)|
 | **interpretation_guidance** | / |
 | **supplementary_material** | / |
