@@ -3,7 +3,8 @@
 | Label | Description |
 | :--- | :--- |
 | **title** | CourseOrganization|
-| **source_paper** | Definition and Use of iStar 2.0, DOI: 10.1007/978-3-031-72107-6_5|
+| **source_paper** | Definition and Use of iStar 2.0|
+| **DOI** |  10.1007/978-3-031-72107-6_5|
 | **authors** | F. Dalpiaz, X. Franch, J. Horkoff |
 | **year** | 2024 |
 | **domain** | Academic Management |
