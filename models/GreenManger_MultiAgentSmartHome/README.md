@@ -3,7 +3,8 @@
 | Label | Description |
 | :--- | :--- |
 | **title** | GreenManager_MultiAgentSmartHome |
-| **source_paper** | A goal-driven software product line approach for evolving on multi-agent systems in the Internet of Things, DOI: 10.1016/j.knosys.2019.104883 |
+| **source_paper** | A goal-driven software product line approach for evolving on multi-agent systems in the Internet of Things |
+| **DOI** | 10.1016/j.knosys.2019.104883 |
 | **authors** | A. Inmaculada, A. Mercedes, J.M. Horcas, L. Fuentes|
 | **year** | 2019 |
 | **domain** | Smart Home |
