@@ -3,7 +3,7 @@
 | Label | Description |
 | :--- | :--- |
 | **title** | SaleAndSupply_LiquorStore |
-| **source_paper** | Towards Automatic Generation of iStar Models Using ChatGPT, [text](https://ceur-ws.org/Vol-3936/) |
+| **source_paper** | Towards Automatic Generation of iStar Models Using ChatGPT, [link](https://ceur-ws.org/Vol-3936/) |
 | **authors** | Y. Hirabayashi, M. Saeki |
 | **year** | 2024 |
 | **domain** | Sale and Supply Chain |
