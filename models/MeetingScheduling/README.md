@@ -3,7 +3,8 @@
 | Label | Description |
 | :--- | :--- |
 | **title** | MeetingScheduling |
-| **source_paper** |Modeling and Reasoning with Decision-Theoretic Goals, DOI: 10.1007/978-3-642-41924-9_3|
+| **source_paper** |Modeling and Reasoning with Decision-Theoretic Goals|
+| **DOI** |10.1007/978-3-642-41924-9_3|
 | **authors** | S. Liaskos, S. Khan, J. Mylopoulos, M. Soutchanski|
 | **year** | 2013 |
 | **domain** | Meeting Management |

@@ -3,7 +3,8 @@
 | Label | Description |
 | :--- | :--- |
 | **title** | SmartHomeSecuritySystem |
-| **source_paper** | Analysis and optimisation of SPL products using goal models, DOI: 10.1109/RE57278.2023.00018 |
+| **source_paper** | Analysis and optimisation of SPL products using goal models |
+| **DOI** | 10.1109/RE57278.2023.00018 |
 | **authors** | A. Inmaculada, A. Mercedes, L. Fuentes|
 | **year** | 2023 |
 | **domain** | Smart Home |

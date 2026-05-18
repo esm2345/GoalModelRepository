@@ -3,7 +3,8 @@
 | Label | Description |
 | :--- | :--- |
 | **title** | BusinessStrategy_Modelling |
-| **source_paper** |Beyond Conventional Model-Driven Development: From Strategy to Code, [text](https://ceur-ws.org/Vol-2983/)|
+| **source_paper** |Beyond Conventional Model-Driven Development: From Strategy to Code, |
+| **LINK or DOI** |https://ceur-ws.org/Vol-2983/ |
 | **authors** | R. Noel, M. Ruiz, I. Panach, O. Pastor |
 | **year** | 2021 |
 | **domain** | Business strategy |

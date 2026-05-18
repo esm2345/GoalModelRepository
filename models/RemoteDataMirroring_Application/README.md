@@ -2,7 +2,8 @@
 | Label | Description |
 | :--- | :--- |
 | **title** | RemoteDataMirroring_Application|
-| **source_paper** | AutoRELAX: Autmoatically RELAXing a goal model to address uncertainty, DOI: 10.1007/s10664-014-9305-0 |
+| **source_paper** | AutoRELAX: Autmoatically RELAXing a goal model to address uncertainty|
+| **DOI** | DOI: 10.1007/s10664-014-9305-0 |
 | **authors** | A. Lapouchnian, J. Mylopoulos |
 | **year** | 2014 |
 | **domain** | Remote Data Mirroring (RDM) |

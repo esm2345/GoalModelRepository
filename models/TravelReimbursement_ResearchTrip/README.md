@@ -3,7 +3,8 @@
 | Label | Description |
 | :--- | :--- |
 | **title** | TravelReimbursement_ResearchTrip |
-| **source_paper** | Modeling and reasoning about uncertainty in goal models: a decision-theoretic approach, DOI: 10.1007/s10270-021-00968-w |
+| **source_paper** | Modeling and reasoning about uncertainty in goal models: a decision-theoretic approach|
+| **DOI** | 10.1007/s10270-021-00968-w |
 | **authors** | S. Liaskos, S. Khan, J. Mylopoulos |
 | **year** | 2022 |
 | **domain** | Travel Reimbursement|
