@@ -3,19 +3,19 @@
 | Label | Description |
 | :--- | :--- |
 | **title** | RetailerSystem_SubModel |
-| **source_paper** | [Title of the original source] |
-| **DOI** | [link or DOI to the original source] |
-| **authors** | [Authors names] |
-| **year** | [Publication year of the original source] |
-| **domain** | e-Commerce |
-| **model_origin** | [author-provided / reconstructed-from-image / reconstructed-from-author] |
-| **original_notation_and_extension** | [Notation of the original model and variants/extensions] |
-| **reconstruction_notes** | [Additional notes regarding the reconstruction process] |
-| **interpretation_guidance** | [Links to sources applied for translation between notations] |
-| **supplementary_material** | [Additional information required for context or use] |
+| **source_paper** | Goal-Driven Alignment of Services and Business Requirements |
+| **DOI** | 10.1109/SOCCER.2008.5 |
+| **authors** | A. Gehlert, N. Bramsiepe, K. Pohl |
+| **year** | 2009 |
+| **domain** | E-Commerce |
+| **model_origin** | reconstructed-from-image |
+| **original_notation_and_extension** | Tropos 1.0 |
+| **reconstruction_notes** | • **Decomposition Unification**: Modeled both original *Means-End* links and *OR* links uniformly as standard *OR links*.<br>• **Softgoal Contributions**: Refactored original *Means-End* links occurring between *Softgoals* into standard *Make contribution links* to align with strict syntax rules. |
+| **interpretation_guidance** | The original model is only partially illustrated in the source paper. Note that the authors were contacted for the full artifact but no response was received. |
+| **supplementary_material** |/ |
 
 ---
 
 ## Folder Contents
-* **`[model-name].txt`**: The new model file, compatible with the PiStar tool
-* **`[model-name].png`**: A high-resolution export of the model for quick viewing
+* **`model.txt`**: The new, reconstructed model file, compatible with the PiStar tool
+* **`model.png`**: A high-resolution export of the model for quick viewing
