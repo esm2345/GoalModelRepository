@@ -17,5 +17,5 @@
 ---
 
 ## Folder Contents
-* **`[model-name].txt`**: The new model file, compatible with the PiStar tool
-* **`[model-name].png`**: A high-resolution export of the model for quick viewing
+* **`model.txt`**: The new model file, compatible with the PiStar tool
+* **`model.png`**: A high-resolution export of the model for quick viewing
