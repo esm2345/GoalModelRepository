@@ -1,7 +1,7 @@
 # Model Metadata:RCCL_BusinessStrategy
 | Label | Description |
 | :--- | :--- |
-| **title** | RCCL_BusinessStrategy (Royal Caribean Cruise Line)|
+| **title** | RCCL_BusinessStrategy (Royal Caribbean Cruise Line)|
 | **source_paper** | Can goal reasoning techniques be used for strategic decision-making?|
 | **DOI** | 10.1007/978-3-319-46397-1_41 |
 | **authors** | E. Paja, A. Mate, C. Woo, J. Mylopoulos |
