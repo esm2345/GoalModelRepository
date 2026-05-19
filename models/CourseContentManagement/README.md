@@ -9,7 +9,7 @@
 | **domain** | Academic Management, Learning Management System |
 | **model_origin** | reconstructed-from-image  |
 | **original_notation_and_extension** | iStar 1.0 |
-| **reconstruction_notes** | • **Syntax Compliance**: Refactored *AND links* pointing from a task to a resource into standard *Needed-By links* to adhere to tool constraints.<br>• **Cross-Actor Refactoring**: Converted a *Help contribution* that originally crossed actor boundaries (from CCM to LMS) into a valid actor dependency, which was then broken down into individual internal *Help links*.<br>• **Dependum Creation**: Generated and added missing dependum nodes required by the syntax, labeling them contextually based on the surrounding context and the *dependee*. |
+| **reconstruction_notes** | • **Syntax Compliance**: Refactored *AND links* pointing from a task to a resource into standard *Needed-By links* to comply with syntax rules.<br>• **Cross-Actor Refactoring**: Converted *Help contributiosn* that crossed actor boundaries (from CCM to LMS) into a valid actor dependency, which was then broken down into individual internal *Help links*.<br>• **Dependum Creation**: Generated and added missing dependum nodes required by syntax, labeling them contextually based on the surrounding context and the *dependee*. |
 | **interpretation_guidance** |/|
 | **supplementary_material** | /|
 
