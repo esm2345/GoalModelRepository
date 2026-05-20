@@ -1,8 +1,8 @@
-# Model Metadata: WastewaterUtilitySystem_EBIOS
+# Model Metadata: WastewaterUtilitySystem_CyberAttack
 
 | Label | Description |
 | :--- | :--- |
-| **title** | WastewaterUtilitySystem_EBIOS |
+| **title** | WastewaterUtilitySystem_CyberAttack |
 | **source_paper** |Improving Cyber Security Risk Assessment by Combined Use of i* and Infrastructure Models |
 | **DOI** | https://ceur-ws.org/Vol-2983/iStar21_paper_11.pdf |
 | **authors** | C. Ponsard, V. Ramon, M. Touzani |
