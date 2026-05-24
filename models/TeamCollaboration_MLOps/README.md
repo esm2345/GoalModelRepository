@@ -10,14 +10,12 @@
 | **domain** |Machine Learning Operations (MLOps)|
 | **model_origin** |  reconstructed-from-image |
 | **original_notation_and_extension** | iStar 1.0 |
-| **reconstruction_notes** | omitted evaluation annotations and colour annotations; syntax violations like resources 'Continuous monitoring across releases for drift' using AND-refinements were refactored into tasks as they are an active process, decomposition links from task to resources refactored into 'Needed by' links; | 
-| **interpretation_guidance** |/|
+| **reconstruction_notes** | • **Omissions**: Left out evaluation and color annotations.<br>• **Element Tweaks**: Refactored resources that represent active processes (like *"Continuous monitoring across releases for drift"*) into *Tasks* to fix AND-refinement syntax violations.<br>• **Link Fixes**: Changed decomposition links pointing from tasks to resources into standard *Needed-By links*.<br>• **Structural Tweaks**: Added a redundant task element for *"completion of model selection"* to create a valid anchor point for a resource link. |
+| **interpretation_guidance** | • 🟡 **Yellow Elements**: Used to highlight specific MLOps components.<br>• 🔴 **Red Elements**: Indicate negative outcomes or things that should be avoided. |
 | **supplementary_material** | /|
 
 ---
 
 ## Folder Contents
-* **`[model-name].txt`**: The new model file, compatible with the PiStar tool
-* **`[model-name].png`**: A high-resolution export of the model for quick viewing
-* **`original_image.png`**: (Optional) Contains a screenshot or PDF of the original model from the paper 
-* **`original_description.txt`**: (Optional) Contains description of the original model from the paper 
+* **`model.txt`**: The new reconstructed model file, compatible with the PiStar tool
+* **`model.png`**: A high-resolution export of the model for quick viewing
