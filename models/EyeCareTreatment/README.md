@@ -8,7 +8,7 @@
 | **DOI** | 10.1007/978-3-642-01187-0_11 |
 | **authors** | A. Edirisuriya, J. Zdravkovic |
 | **year** | 2009|
-| **domain** | [Application area (e.g. legal, healthcare, security)] |
+| **domain** | Healthcare |
 | **model_origin** | reconstructed-from-image  |
 | **original_notation_and_extension** | KAOS 1.0 |
 | **reconstruction_notes** | • **Actor Setup**: Identified the *Patient*, *Primary Care Physician*, and *Eye-Care Specialist* as primary actors based on the source text and Table 1.<br>• **Element Adjustments**: Kept the original goal phrasing, but refactored *"Patient satisfaction"* into a standard *Softgoal*.<br>• **Link Mapping**: Modeled *Means-End links* and *OR links* identically to fit the syntax. Added dependency links to handle cross-actor boundaries.<br>• **Dependency Anchoring**: Added a few redundant elements to create valid connection points for those cross-actor dependencies. |
