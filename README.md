@@ -118,7 +118,7 @@ To avoid ambiguity, this repository distinguishes between the creators of the mo
 ## Conditions of Use and License
 
 **Licensing:**
-The reconstructed machine-readable goal models (JSON files) and accompanying metadata in this repository are distributed openly under the [MIT License](License). You are free to share, reuse, and adapt these files, provided you give appropriate credit. 
+The reconstructed machine-readable goal models (JSON files) and accompanying metadata in this repository are distributed openly under the [MIT License](License.md). You are free to share, reuse, and adapt these files, provided you give appropriate credit. 
 
 
 
