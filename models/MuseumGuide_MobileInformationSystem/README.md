@@ -12,7 +12,6 @@
 | **original_notation_and_extension** |Tropos 1.0 with context annotations|
 | **reconstruction_notes** | • **Link Mapping**: Modeled *Means-End links* and *OR links* identically due to the syntax limits of the modeling tool. |
 | **interpretation_guidance** | • **Model Lineage**: This model builds upon and incorporates many elements from the previously established *MuseumAssistanceSystem* model (DOI is linked in **supplementary_material**). |
-
 | **supplementary_material** | Similar Model DOI: 10.1007/978-3-642-31072-0_25 |
 ---
 
