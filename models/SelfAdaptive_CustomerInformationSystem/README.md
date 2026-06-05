@@ -18,5 +18,3 @@
 ## Folder Contents
 * **`model.txt`**: The new model file, compatible with the PiStar tool
 * **`model.png`**: A high-resolution export of the model for quick viewing
-* **`original_image.png`**: screenshot of model in original paper
-* **`original_description.txt`**: (Optional) Contains description of the original model from the paper 

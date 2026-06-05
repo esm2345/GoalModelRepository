@@ -19,5 +19,3 @@
 ## Folder Contents
 * **`model.txt`**: The reconstructed model file, compatible with the PiStar tool
 * **`model.png`**: Image export of reconstructed model
-* **`original_image.png`**: screenshot of original model in the source paper
-* **`original_description.md`**: description of original model in the paper

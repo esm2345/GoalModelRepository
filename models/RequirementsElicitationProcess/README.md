@@ -24,7 +24,6 @@
 
 * **`InterviewsContextualModel.txt`**: model file that shows specifically the Requirements Engineering method for Elicitation through interviews
 * **`InterviewsContextualModel.png`**: quick viewing image of Interview Elicitation model
-* **`original_InterviewsContextualModel_withContextAnnotation.png`**: shows original model for Elicitation through interviews method with added Context annotations
 
 
 * **`project.txt`**: model file for case study of University of Geneva to develop a mobile application; showing the System Requirements for the Mobile App
@@ -32,7 +31,6 @@
 
 * **`UniGelSDDContext.txt`**: model file specifying the needs of the University of Geneva for the method of Requirements Elicitation for the mobile application
 * **`UniGelSDDContext.png`**: A high-resolution export of the model for quick viewing
-* **`original_UniGelSDDContext_withContextAnnotation.png`**: shows model with added context annotations
 
  
 * **`UniGelSDDWithMethod.txt`**: model file that shows process of Requirements Elicitation in case study of the mobile application for University of Geneva
