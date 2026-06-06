@@ -8,8 +8,8 @@
 | **authors** | A. Jaqueira, M. Lucena, F. Alencar, J. Castro, E. Aranha |
 | **year** | 2013 |
 | **domain** |Requirements Engineering |
-| **model_origin** | [author-provided / reconstructed-from-image / reconstructed-from-author] |
-| **Reconstructor** | Original Authors |
+| **model_origin** | reconstructed-from-image|
+| **Reconstructor** | E. Soulas Moreno |
 | **original_notation_and_extension** | iStar 1.0 |
 | **reconstruction_notes** | / |
 | **interpretation_guidance** |/ |
