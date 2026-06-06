@@ -9,7 +9,7 @@
 | **year** | [Publication year of the original source] |
 | **domain** | [Application area (e.g. legal, healthcare, security)] |
 | **model_origin** | [author-provided / reconstructed-from-image / reconstructed-from-author] |
-| **Reconstructor** | [name of the reconstructor of this model, if model is provided by original authors just state 'original authors'] |
+| **Reconstructor** | [name of the reconstructor of this model, if model is provided by original authors state 'original authors'] |
 | **original_notation_and_extension** | [Notation of the original model and variants/extensions] |
 | **reconstruction_notes** | [Additional notes regarding the reconstruction process] |
 | **interpretation_guidance** | [Links to sources applied for translation between notations] |
