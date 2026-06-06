@@ -9,6 +9,7 @@
 | **year** | 2013 |
 | **domain** | IT Systems |
 | **model_origin** | reconstructed-from-image |
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** | iStar 1.0 |
 | **reconstruction_notes** | means-end links modelled as OR links; neutral contribution links to "maximize performance " goal were omitted; external resources (dependency links) were modelled as external actors providing resource; claim element was omitted; Softgoals were modelled inside RDM actor boundary |
 | **interpretation_guidance** | / |

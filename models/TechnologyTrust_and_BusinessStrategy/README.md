@@ -9,6 +9,7 @@
 | **year** | 2006 |
 | **domain** |Trusted Computing; Cyber Security |
 | **model_origin** | reconstructed-from-image |
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** | iStar 1.0 with evaluation labels |
 | **reconstruction_notes** | • **Link Adjustments**: Changed *AND link* from a softgoal to a task into *Qualification link*, and mapped *Some-* contributions to  *Hurt links*.<br>• **Dependency Anchoring**: Added intermediate elements (sometimes with redundant labels) to create valid connection points for dependency links without changing meaning.<br>• **Role Mapping**: Converted *Plays links* into *Participates-In links*, as both express a concrete agent fulfilling an abstract role. |
 | **interpretation_guidance** | • **Model Selection**: Chose Figure 3 over Figure 2 because it features a richer set of iStar constructs (like cross-actor contributions) and a more complex actor network. It also offers modeling variety without being as overly complex as Figures 4–6.<br>• **Note**: Several different iterations of this model are available in the source's supplementary material. |

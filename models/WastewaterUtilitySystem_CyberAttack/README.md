@@ -9,6 +9,7 @@
 | **year** | 2021|
 | **domain** |Cyber Security |
 | **model_origin** | reconstructed-from-image  |
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** |iStar 2.0 |
 | **reconstruction_notes** |original model contained break links from attacker task to internal actor goal, as violate the iStar 2.0 syntax they were integrated into the attacker dependency task going ahead and labelled with combined title of malicious task and antigoal |
 | **interpretation_guidance** | **Security/Threat Modeling Elements (Red):**<br>• 🔴 **Attacker**: Threat actor or malicious agent boundary.<br>• 🛑 **Anti-goal**: Condition or state that the attacker wants to achieve (harmful to the system and goal of main actors).<br>• 🛑 **Malicious Task**: Specific action or attack vector executed by the threat actor to achieve an anti-goal. |

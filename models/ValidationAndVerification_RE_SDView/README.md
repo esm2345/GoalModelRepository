@@ -9,6 +9,7 @@
 | **year** | 2008 |
 | **domain** | Requirements Engineering |
 | **model_origin** | reconstructed-from-image  |
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** |iStar 1.0|
 | **reconstruction_notes** | • **Actor-Refactoring**: *Position* element was mapped to a generic *Actor* to comply with iStar 2.0 meta-model. The *Software Professional* element was similarly refactored into an *Actor* to satisfy the domain and range constraints of *Is-A* relationships.<br>• **Relationship Refactoring**: *Occupies* relationships (mapping an actor to a position/role) and *Covers* relationships were refactored into standard *Participates-In* links to comply with tool syntax. |
 | **interpretation_guidance** |this model only provides a SD view (in original and reconstructed model)|

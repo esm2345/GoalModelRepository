@@ -9,6 +9,7 @@
 | **year** | 2018|
 | **domain** |Public Administration |
 | **model_origin** |reconstructed-from-image |
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** | Tropos with Security extension (Secure Tropos)  |
 | **reconstruction_notes** | • **Element Tweaks**: Added extra tasks to explicitly represent *"create" links*.<br>• **Link Mapping**: Modeled *"requires" links* between tasks and resources as standard *Needed-By links*.<br>• **Omissions**: Left out custom security extension elements (*Threat*, *Mechanism*, *Vulnerability*, *Constraint*, and *Attack Method*) due to the limitations of the modeling tool. |
 | **interpretation_guidance** | • **Mapping Reference**: Used the transformation mapping rules provided in the supplementary material to convert KAOS elements into iStar 2.0 syntax. |

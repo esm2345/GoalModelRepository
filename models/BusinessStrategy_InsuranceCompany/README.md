@@ -10,6 +10,7 @@
 | **year** | 2023 |
 | **domain** |Business Strategy; Insurance|
 | **model_origin** | reconstructed-from-image  |
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** | iStar 2.0 |
 | **reconstruction_notes** |/|
 | **interpretation_guidance** | the (original and reconstructed) model is mostly in SD View only|

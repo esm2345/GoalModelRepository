@@ -9,6 +9,7 @@
 | **year** | 2024 |
 | **domain** | Sale and Supply Chain |
 | **model_origin** |  reconstructed-from-image |
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** |iStar 2.0 |
 | **reconstruction_notes** |/ |
 | **interpretation_guidance** | / |

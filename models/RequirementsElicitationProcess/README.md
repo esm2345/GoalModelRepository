@@ -8,6 +8,7 @@
 | **year** | 2018 |
 | **domain** | Requirements Engineering |
 | **model_origin** | all models are author-provided |
+| **Reconstructor** | Original Authors |
 | **original_notation_and_extension** | iStar 2.0 with manually added context annotations |
 | **reconstruction_notes** | / |
 | **interpretation_guidance** | the context annotations from the original paper have been added manually through PowerPoint as the PiStar tool does not support annotations like these |

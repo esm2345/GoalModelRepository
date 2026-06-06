@@ -9,6 +9,7 @@
 | **year** | 2013 |
 | **domain** |Requirements Engineering |
 | **model_origin** | [author-provided / reconstructed-from-image / reconstructed-from-author] |
+| **Reconstructor** | Original Authors |
 | **original_notation_and_extension** | iStar 1.0 |
 | **reconstruction_notes** | / |
 | **interpretation_guidance** |/ |

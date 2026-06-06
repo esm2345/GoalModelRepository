@@ -9,6 +9,7 @@
 | **year** | 2023|
 | **domain** | Energy Management |
 | **model_origin** |  reconstructed-from-image |
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** | iStar 1.0|
 | **reconstruction_notes** | • **Link Mapping**: refactored *Some+* and *Some-* links into *Help* and *Hurt* links to fit the modeling tool's constraints.<br>• **Dependency Fixes**: Refactored cross-actor *Help links* into softgoal dependencies, anchoring them (if needed) to the lowest-level leaf nodes to keep the syntax happy. |
 | **interpretation_guidance** | / |

@@ -9,6 +9,7 @@
 | **year** | 2007 |
 | **domain** | Education |
 | **model_origin** | reconstructed-from-image  |
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** | Tropos 1.0|
 | **reconstruction_notes** | • **Refactoring**: Converted capability-level plan elements into *Resources*, and broke main goals down into lower-level *Tasks* and *Goals* to follow piStar syntax rules<br>• **Omissions**: Omitted capability-level and knowledge-level annotations, as well as the overall search system integration<br>• **Link Simplification**: Refactored original *Why* links into standard resource dependencies between actors |
 | **interpretation_guidance** | / |

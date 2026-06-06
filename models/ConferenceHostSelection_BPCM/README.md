@@ -9,6 +9,7 @@
 | **year** | 2012 |
 | **domain** | Business Process Characterizing Modeling (BPCM) |
 | **model_origin** | reconstructed-from-image |
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** | iStar 1.0 |
 | **reconstruction_notes** |/|
 | **interpretation_guidance** | / |

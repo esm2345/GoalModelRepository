@@ -9,6 +9,7 @@
 | **year** | 2009 |
 | **domain** | E-Commerce |
 | **model_origin** | reconstructed-from-image |
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** | Tropos 1.0 |
 | **reconstruction_notes** | • **Decomposition Unification**: Modeled both original *Means-End* links and *OR* links uniformly as standard *OR links*.<br>• **Softgoal Contributions**: Refactored original *Means-End* links occurring between *Softgoals* into standard *Make contribution links* to align with strict syntax rules. |
 | **interpretation_guidance** | The original model is only partially illustrated in the source paper. Note that the authors were contacted for the full artifact but no response was received. |

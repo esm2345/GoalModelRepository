@@ -9,6 +9,7 @@
 | **year** | 2017 |
 | **domain** | Artificial Intelligence |
 | **model_origin** | reconstructed-from-image |
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** | iStar 1.0|
 | **reconstruction_notes** | • **Link Refactoring**: The *AND refinement* between the task and the resource was refactored into a *Needed-By link* for syntax compliance. Both *Some+* and *Help* contributions were mapped uniformly as standard *Help contributions*.<br>• **Dependency Refactoring**: The dependency from the internal task *"Understand Request"* to the *User* actor was modeled using an intermediate goal *"Get Request"* to satisfy syntax validation rules. |
 | **interpretation_guidance** | this is only a partial model (as provided in source paper) |

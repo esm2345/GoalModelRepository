@@ -9,6 +9,7 @@
 | **year** | 2022 |
 | **domain** | Healthcare|
 | **model_origin** |  reconstructed-from-image|
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** | iStar 2.0 |
 | **reconstruction_notes** | / |
 | **interpretation_guidance** | • **Partial Source Data**: This model represents only a fragment of the complete goal model, as it was only partially provided in the source paper and no further assets were obtained after contacting the authors.<br>• **Color Semantics**: Colors are utilized to distinguish and identify different GOOPs (Goal-Oriented Ontology Patterns) introduced later in the source paper. |

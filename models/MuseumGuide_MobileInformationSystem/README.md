@@ -9,6 +9,7 @@
 | **year** | 2010 |
 | **domain** | Assistance Systems |
 | **model_origin** |  reconstructed-from-image  |
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** |Tropos 1.0 with context annotations|
 | **reconstruction_notes** | • **Link Mapping**: Modeled *Means-End links* and *OR links* identically due to the syntax limits of the modeling tool. |
 | **interpretation_guidance** | • **Model Lineage**: This model builds upon and incorporates many elements from the previously established *MuseumAssistanceSystem* model (DOI is linked in **supplementary_material**). |

@@ -9,6 +9,7 @@
 | **year** | 2019 |
 | **domain** | Social Network Sites (SNS) |
 | **model_origin** |  reconstructed-from-image  |
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** | iStar 2.0 |
 | **reconstruction_notes** | empty tasks boxes modelled same as in original to show potential for alternative means to achieve the same result; contribution link "some -" modelled as "hurt" contribution as it is the most similar in meaning;" Accessibility [Customer Data]" is modelled as a goal rather than a softgoal else it breaks rule of AND refinement |
 | **interpretation_guidance** | / |

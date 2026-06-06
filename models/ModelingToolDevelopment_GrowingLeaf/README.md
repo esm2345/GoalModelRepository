@@ -9,6 +9,7 @@
 | **year** | 2016 |
 | **domain** |Software Tool Development|
 | **model_origin** | reconstructed-from-image |
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** | iStar 1.0 with dynamic functions and evaluation annotations |
 Here is a short, friendly, and clear rewrite of your notes, keeping the technical details accurate while formatting them nicely for your table:
 | **reconstruction_notes** | • **Omissions**: Left out dynamic function annotations, as they are a paper-specific extension with no direct equivalent<br>• **Actor Adjustments**: Converted specific *Agents* (researchers, practitioners, and students) into generic *Actors* to support standard *Is-A relationships*.<br>• **Dependency Fixes**: Modeled cross-actor *Make links* as standard actor dependencies, adding labels or nodes (sometimes redundant) to ensure they connect validly under syntax rules |

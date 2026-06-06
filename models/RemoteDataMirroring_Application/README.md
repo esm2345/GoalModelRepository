@@ -8,6 +8,7 @@
 | **year** | 2014 |
 | **domain** | Remote Data Mirroring (RDM) |
 | **model_origin** | reconstructed-from-image |
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** | KAOS 1.0 |
 | **reconstruction_notes** | RDM modelled as primary actor with all high-level goals; environmental & system agents modelled as separate agents & actors with internal goals; variant/invariant of goal omitted; dependencies modelled as resource dependencies;  |
 | **interpretation_guidance** | transformation table mapping iStar to KAOS used for general mappings (see supplementary material) |

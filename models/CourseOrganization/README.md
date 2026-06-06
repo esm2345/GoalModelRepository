@@ -9,6 +9,7 @@
 | **year** | 2024 |
 | **domain** | Academic Management |
 | **model_origin** | author-provided |
+| **Reconstructor** | Original Authors |
 | **original_notation_and_extension** |iStar 2.0 |
 | **reconstruction_notes** | /|
 | **interpretation_guidance** | / |

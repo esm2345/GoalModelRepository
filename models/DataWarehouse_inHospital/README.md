@@ -9,6 +9,7 @@
 | **year** | 2015 |
 | **domain** | Data Warehouse Management |
 | **model_origin** |  reconstructed-from-image |
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** | iStar 1.0|
 | **reconstruction_notes** | • **Link Refactoring**: *Means-End link* from resource to task was refactored into *Needed-By link* for syntax validation.<br>• **Element Type Modification**: Converted the element *"Experience AE"* into a *Task* to permit resource subcomposition |
 | **interpretation_guidance** | / |

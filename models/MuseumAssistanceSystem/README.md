@@ -9,6 +9,7 @@
 | **year** |2012 |
 | **domain** | Assistance Systems |
 | **model_origin** | reconstructed-from-image |
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** | Tropos 1.0 |
 | **reconstruction_notes** | • **Link Modeling**: Merged the original *OR* and *Means-End* links, modeling both uniformly using standard *OR links*.<br>• **Dependency Refactoring**: Modeled the actor dependency *C6* as *Goal Dependency*. |
 | **interpretation_guidance** |/|

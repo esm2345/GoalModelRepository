@@ -10,6 +10,7 @@
 | **year** | 2025|
 | **domain** | Aeronautics |
 | **model_origin** |  reconstructed-from-image |
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** | iStar 2.0 |
 | **reconstruction_notes** | part of links modeled as participates in links |
 | **interpretation_guidance** |/|

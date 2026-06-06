@@ -9,6 +9,7 @@
 | **year** | 2016 |
 | **domain** | Test case generation, testing Software Product Lines (SPLs) |
 | **model_origin** | reconstructed-from-image|
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** | iStar 1.0 |
 | **reconstruction_notes** | • **Dependency Refactoring**: Moved the dependency pointing from the *Requirements Engineer* to high-level *TaRGet* actor node *"obtain requirements document"*, moving it instead onto its specific leaf node *"upload document"*. This satisfies tool syntax rules while preserving the original strategic meaning. |
 | **interpretation_guidance** | / |

@@ -10,6 +10,7 @@
 | **year** | 2010 |
 | **domain** | Environmental Monitoring |
 | **model_origin** |  reconstructed-from-image  |
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** | iStar 1.0 with claims annotations|
 | **reconstruction_notes** | • **Omissions**: Left out claim annotations due to the modeling tool's limitations.<br>• **Boundary Refactoring**: Moved external/floating softgoals inside actor boundaries.<br>• **Dependency Adjusmtents**: Handled resource dependencies by creating an additional actor and adding extra elements to act as valid connection points. |
 | **interpretation_guidance** | /|

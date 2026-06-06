@@ -9,6 +9,7 @@
 | **year** | 2014|
 | **domain** |Air Traffic Control (ATC); Aeronautics |
 | **model_origin** | reconstructed-from-image |
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** | KAOS 1.0 |
 | **reconstruction_notes** | • **Boundary Tweaks**: Embedded the entire model within the *ATC* actor boundary, as the original KAOS framework lacks equivalent boundary concepts. |
 | **interpretation_guidance** | • **Mapping Reference**: The specific transformation rules and mapping table applied to this model are detailed in the linked supplementary material. |

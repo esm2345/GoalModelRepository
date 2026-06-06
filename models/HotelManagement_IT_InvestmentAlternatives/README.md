@@ -10,6 +10,7 @@
 | **year** | 2014 |
 | **domain** | e-Tourism |
 | **model_origin** | reconstructed-from-image |
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** | iStar 1.0|
 | **reconstruction_notes** | [Additional notes regarding the reconstruction process] |
 | **interpretation_guidance** | the (original and reconstructed) model represents only a fragment of the scenario as the authors could not provide the full scenario |

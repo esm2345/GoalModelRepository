@@ -10,6 +10,7 @@
 | **year** |2019|
 | **domain** | Telemedicine, Remote Mental Health Counselling |
 | **model_origin** |  reconstructed-from-image  |
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** |iStar 2.0|
 | **reconstruction_notes** | • **Dependency Refactoring**: Introduced a structurally redundant softgoal for *"high quality counselling"* to establish a valid node for dependency link to comply with syntax rules. |
 | **interpretation_guidance** | /|

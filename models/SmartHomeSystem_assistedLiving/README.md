@@ -10,6 +10,7 @@
 | **year** | 2012 |
 | **domain** |Smart Home, IoT |
 | **model_origin** | reconstructed-from-image |
+| **Reconstructor** | Elena Sophie Soulas Moreno |
 | **original_notation_and_extension** | iStar 1.0 with context annotations |
 | **reconstruction_notes** | • **Omissions**: Left out extra context annotations.<br>• **Link Refactoring**: Changed the link between *"fast response"* and *"schedule social event with friend"* into a *Qualification link* to keep the tool's syntax happy.<br>• **Dependency Anchoring**: Re-anchored dependency links (like those pointing to the *Preference Manager* and *Data Storage* actors) to their lowest-level leaf nodes, and updated their labels to keep the same meaning as before. |
 | **interpretation_guidance** | / |
