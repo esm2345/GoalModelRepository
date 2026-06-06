@@ -8,7 +8,7 @@
 | **year** | 2009 |
 | **domain** | IT Systems |
 | **model_origin** | reconstructed-from-image  |
-| **Reconstructor** | Elena Sophie Soulas Moreno |
+| **Reconstructor** | E. Soulas Moreno |
 | **original_notation_and_extension** | Tropos 1.0 |
 | **reconstruction_notes** | OR-refinement and means-end link modelled both as OR refinement; since Tropos and iStar have the same origins there are very few ambiguous design decisions |
 | **interpretation_guidance** | / |

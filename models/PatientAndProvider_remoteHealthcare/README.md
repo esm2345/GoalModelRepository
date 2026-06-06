@@ -9,7 +9,7 @@
 | **year** | 2022|
 | **domain** | Telemedicine |
 | **model_origin** |  reconstructed-from-image|
-| **Reconstructor** | Elena Sophie Soulas Moreno |
+| **Reconstructor** | E. Soulas Moreno |
 | **original_notation_and_extension** | iStar 1.0 |
 | **reconstruction_notes** | • **Contribution Link Consolidation**: The original model distinguishes between more link types (*Help* vs. *Some+* and *Hurt* vs. *Some-*). Due to tool syntax limitations during reconstruction, these were simplified and modeled uniformly as standard **Help** (for positive contributions) and **Hurt** (for negative contributions) links respectively. |
 | **interpretation_guidance** | / |

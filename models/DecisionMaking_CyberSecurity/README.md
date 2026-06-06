@@ -10,7 +10,7 @@
 | **year** | 2023 |
 | **domain** | Cyber Security |
 | **model_origin** | reconstructed-from-image  |
-| **Reconstructor** | Elena Sophie Soulas Moreno |
+| **Reconstructor** | E. Soulas Moreno |
 | **original_notation_and_extension** | iStar 2.0 with color annotation|
 | **reconstruction_notes** | / |
 | **interpretation_guidance** |Meaning of colors:<br>• **Red**: Assumptions <br>•           **Blue**: Option related to assess audit <br>• **Yellow**: Option related to threat assessment |

@@ -9,7 +9,7 @@
 | **year** | 2013 |
 | **domain** |E-Commerce|
 | **model_origin** | reconstructed-from-image  |
-| **Reconstructor** | Elena Sophie Soulas Moreno |
+| **Reconstructor** | E. Soulas Moreno |
 | **original_notation_and_extension** |KAOS 1.0 |
 | **reconstruction_notes** | • **Actor Setup**: Modeled *E-Commerce System*, *Customer*, and *Retailer* as main actors.<br>• **Element Adjustments**: Added intermediate goal levels to create valid structure for *AND links* (if needed).<br>• **Link Mapping**: Modeled *Means-End links* and *OR links* identically due to modeling tool limitations.<br>• **Dependency Fixes**: Converted operations (tasks) provided by external actors into *Task dependencies* between actors. |
 | **interpretation_guidance** | • **Mapping Reference**: Used the transformation mapping rules provided in the supplementary material to convert KAOS elements into iStar 2.0 syntax. |

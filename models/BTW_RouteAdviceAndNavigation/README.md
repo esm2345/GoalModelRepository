@@ -9,7 +9,7 @@
 | **year** |2012|
 | **domain** | Route Planning System |
 | **model_origin** | reconstructed-from-image  |
-| **Reconstructor** | Elena Sophie Soulas Moreno |
+| **Reconstructor** | E. Soulas Moreno |
 | **original_notation_and_extension** | iStar 1.0 |
 | **reconstruction_notes** | • **Link Refactoring**: Changed *AND links* between softgoals into standard *Make links*.<br>• **Dependency Anchoring**: Added redundant leaf nodes (sometimes using duplicate labels) to create valid anchor points for dependency links. |
 | **interpretation_guidance** |the model is only showing an excerpt of the whole case study as this is what was available in the source paper (and after contacting the authors)|

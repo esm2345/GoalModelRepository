@@ -9,7 +9,7 @@
 | **year** | 2020 |
 | **domain** | Video Based Learning |
 | **model_origin** | reconstructed-from-image |
-| **Reconstructor** | Elena Sophie Soulas Moreno |
+| **Reconstructor** | E. Soulas Moreno |
 | **original_notation_and_extension** |iStar 2.0|
 | **reconstruction_notes** | The yellow highlighting on two nodes in the original was omitted as it is for presentational emphasis used by the authors rather than a formal modeling reason|
 | **interpretation_guidance** | / |

@@ -9,7 +9,7 @@
 | **year** | 2016 |
 | **domain** | Sales and Distribution Management; Software Product Lines (SPL)|
 | **model_origin** |  reconstructed-from-image |
-| **Reconstructor** | Elena Sophie Soulas Moreno |
+| **Reconstructor** | E. Soulas Moreno |
 | **original_notation_and_extension** | iStar 1.0 |
 | **reconstruction_notes** | • **Link Refactoring**: link from the softgoal to task within the *Service Point* actor refactored into a *Qualification link* for syntax validation. *AND link* from task to resource was refactored into a *Needed-By link*.<br>• **Visual Modifications**: The non-system element (originally denoted by a dotted boundary) was remodeled using a note behind the label.<br>• **Decomposition Mapping**: The original *Means-End* inclusion relationship annotated with an 'X' (indicating an OR decomposition) was modeled as *OR link*. |
 | **interpretation_guidance** | / |

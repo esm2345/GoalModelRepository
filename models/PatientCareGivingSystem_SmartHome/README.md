@@ -9,7 +9,7 @@
 | **year** | 2013 |
 | **domain** | Smart Home System; Healthcare |
 | **model_origin** | reconstructed-from-image  |
-| **Reconstructor** | Elena Sophie Soulas Moreno |
+| **Reconstructor** | E. Soulas Moreno |
 | **original_notation_and_extension** | Tropos 1.0 with context annotations |
 | **reconstruction_notes** | • **Link Mapping**: Modeled *Means-End links* and *OR links* identically to comply with syntax.<br>• **Omissions**: Left out context annotations due to the modeling tool's limitations. |
 | **interpretation_guidance** | • **Partial Source Data**: This represents a partial model, as it was the only fragment provided in the original source material. |

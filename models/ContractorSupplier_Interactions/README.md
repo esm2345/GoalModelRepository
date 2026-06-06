@@ -9,7 +9,7 @@
 | **year** | 2025|
 | **domain** | Supply Chain Logistics, Security Requirements |
 | **model_origin** | reconstructed-from-image  |
-| **Reconstructor** | Elena Sophie Soulas Moreno |
+| **Reconstructor** | E. Soulas Moreno |
 | **original_notation_and_extension** | iStar 2.0/Hybrid SR/SD view with workflow annotations |
 | **reconstruction_notes** | all workflow elements were omitted as they cannot be modeled with the tool |
 | **interpretation_guidance** | /|

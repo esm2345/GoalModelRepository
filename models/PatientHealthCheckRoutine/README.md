@@ -9,7 +9,7 @@
 | **year** | 2013 |
 | **domain** |Healthcare |
 | **model_origin** | reconstructed-from-image  |
-| **Reconstructor** | Elena Sophie Soulas Moreno |
+| **Reconstructor** | E. Soulas Moreno |
 | **original_notation_and_extension** | iStar 1.0 with context and task annotations|
 | **reconstruction_notes** | the context annotations on the links were ommitted due to the constraints of the modeling tool |
 | **interpretation_guidance** | **Activation Rules:**<br>• **g1**: alarm plays sound<br>• **g18**: alarm plays sound, if contexts **c1** and **c4** hold<br><br>**Goal Timeouts:**<br>• **g1**: 60 minutes<br>• **g18**: 40 minutes |

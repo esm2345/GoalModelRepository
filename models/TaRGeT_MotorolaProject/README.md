@@ -10,7 +10,7 @@
 | **year** | 2011 |
 | **domain** |Test case generation|
 | **model_origin** |  reconstructed-from-image|
-| **Reconstructor** | Elena Sophie Soulas Moreno |
+| **Reconstructor** | E. Soulas Moreno |
 | **original_notation_and_extension** | iStar 1.0 with context and cardinality annotations |
 | **reconstruction_notes** | AND refinement from softgoal to task refactored into qualification link to comply with PiStar syntax |
 | **interpretation_guidance** |/ |

@@ -9,7 +9,7 @@
 | **year** | 2009 |
 | **domain** | Healthcare |
 | **model_origin** |  reconstructed-from-image |
-| **Reconstructor** | Elena Sophie Soulas Moreno |
+| **Reconstructor** | E. Soulas Moreno |
 | **original_notation_and_extension** | Tropos 1.0 |
 | **reconstruction_notes** | • **Goal-to-Task Refactoring**: Converted the goal *"prescribe patient's treatment"* into a *Task* to satisfy syntax requirements (allowing a connection with a resource).<br>• **Link Adjustments**: Refactored original cross-goal *"+" contribution links* into standard *OR / Means-End links*, and changed other goal-to-goal contributions into *AND* or *OR* structural links (depending on context).<br>• **Softgoal & Dependency Fixes**: Translated a *Means-End link* from a goal to a softgoal into a *Qualification link* to fit the context; introduced an intermediate *Task* to legally support necessary *Needed-By links*. |
 | **interpretation_guidance** | / |

@@ -9,7 +9,7 @@
 | **year** | 2013 |
 | **domain** | Meeting Management |
 | **model_origin** |  reconstructed-from-image |
-| **Reconstructor** | Elena Sophie Soulas Moreno |
+| **Reconstructor** | E. Soulas Moreno |
 | **original_notation_and_extension** | iStar 1.0 with precedence link extension |
 | **reconstruction_notes** | precedence links were omitted as they break the syntax rules of iStar 2.0 and cannot be represented else |
 | **interpretation_guidance** | / |

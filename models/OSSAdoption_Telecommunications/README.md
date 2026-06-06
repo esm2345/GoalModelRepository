@@ -9,7 +9,7 @@
 | **year** | 2015|
 | **domain** | Open-Source Software (OSS); Telecommunications |
 | **model_origin** | reconstructed-from-image|
-| **Reconstructor** | Elena Sophie Soulas Moreno |
+| **Reconstructor** | E. Soulas Moreno |
 | **original_notation_and_extension** | iStar 1.0 |
 | **reconstruction_notes** |is part of link modeled as participates in ; dependencies from ericsson internal softgoal to TEI elements modelled with adding (redundant ) child leaf to comply with modeling rules |
 | **interpretation_guidance** | / |

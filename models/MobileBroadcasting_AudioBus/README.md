@@ -9,7 +9,7 @@
 | **year** | 2013 |
 | **domain** |Mobile Broadcasting |
 | **model_origin** | reconstructed-from-image  |
-| **Reconstructor** | Elena Sophie Soulas Moreno |
+| **Reconstructor** | E. Soulas Moreno |
 | **original_notation_and_extension** | KAOS 1.0 combined with UML elements|
 | **reconstruction_notes** |**Omissions**: UML class diagram part (lower half) was omitted due to modeling limitations of the tool<br>• **Element Adjustments**: Kept the original goal phrasing, but refactored goals like *"Passenger interest* into *Softgoal* elements.<br>• **Link Mapping**: Modeled *Means-End links* and *OR links* identically to fit the syntax. Added dependency links to handle cross-actor boundaries.<br>• **Dependency Anchoring**: Added a few redundant elements to create valid connection points for those cross-actor dependencies. |
 | **interpretation_guidance** | • **Mapping Reference**: Used the transformation mapping rules provided in the supplementary material to convert KAOS elements into iStar 2.0 syntax. |

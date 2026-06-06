@@ -9,7 +9,7 @@
 | **year** |2022 |
 | **domain** |Machine Learning Operations (MLOps)|
 | **model_origin** |  reconstructed-from-image |
-| **Reconstructor** | Elena Sophie Soulas Moreno |
+| **Reconstructor** | E. Soulas Moreno |
 | **original_notation_and_extension** | iStar 1.0 |
 | **reconstruction_notes** | • **Omissions**: Left out evaluation<br>• **Element Tweaks**: Refactored resources that represent active processes (like *"Continuous monitoring across releases for drift"*) into *Tasks* to fix AND-refinement syntax violations.<br>• **Link Fixes**: Changed decomposition links pointing from tasks to resources into standard *Needed-By links*.<br>• **Structural Tweaks**: Added a redundant task element for *"completion of model selection"* to create a valid anchor point for a resource link. |
 | **interpretation_guidance** | • 🟡 **Yellow Elements**: Used to highlight specific MLOps components.<br>• 🔴 **Red Elements**: Indicate negative outcomes or things that should be avoided. |

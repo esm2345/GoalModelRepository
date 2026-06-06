@@ -9,7 +9,7 @@
 | **year** | 2023 |
 | **domain** | Sustainability, Digital Transformations |
 | **model_origin** | reconstructed-from-image |
-| **Reconstructor** | Elena Sophie Soulas Moreno |
+| **Reconstructor** | E. Soulas Moreno |
 | **original_notation_and_extension** | iStar 2.0 |
 | **reconstruction_notes** | The model was reconstructed based on Figure 5, which illustrates the sustainability and digital transformation goals, resources, and tasks between the Store owner and Mat Norge. |
 | **interpretation_guidance** |/ |

@@ -9,7 +9,7 @@
 | **year** | 2012 |
 | **domain** | Requirements Engineering |
 | **model_origin** |reconstructed-from-image |
-| **Reconstructor** | Elena Sophie Soulas Moreno |
+| **Reconstructor** | E. Soulas Moreno |
 | **original_notation_and_extension** | iStar 1.0|
 | **reconstruction_notes** | • **Dependency Refactoring**: Added an extra, structurally redundant child leaf node within the *Requirements Analysis Client* actor to enable reconstruction of dependency links to the *Requirements Analysis Server*.<br>• **Link Modification**: Refactored an *AND refinement* connecting a softgoal and a task into a  *Make contribution link* to comply with syntax validation constraints. |
 | **interpretation_guidance** | / |
