@@ -10,7 +10,7 @@
 | **domain** | Dynamic Software Product Lines (SPL); Mobile Gaming |
 | **model_origin** | reconstructed-from-author (author provided same image as already included in source paper) |
 | **Reconstructor** | E. Soulas Moreno |
-| **original_notation_and_extension** | [Notation of the original model and variants/extensions] |
+| **original_notation_and_extension** | iStar 2.0 |
 | **reconstruction_notes** | • **Omissions**: Cardinalities on the relationship links were omitted due to limitations of the target modeling tool. Context annotations were similarly omitted for the same syntax constraints. |
 | **interpretation_guidance** | /|
 | **supplementary_material** | / |
